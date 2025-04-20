@@ -1,5 +1,5 @@
 # bicep4stac
-This is a repository containing sample Bicep code for creating a Storage Account by interactively entering some input parameters during the execution of the az deployment group create command on an existing resource group. 
+This is a repository containing sample Bicep code for creating a Storage Account by interactively entering some input parameters during the execution of the `az deployment group create` command on an existing resource group. 
 
 Below is an example of the execution result.
 ```
