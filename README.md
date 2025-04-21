@@ -32,3 +32,7 @@ Please provide bool value for 'containerDeleteRetentionPolicyEnabled' (? for hel
 Please enter a choice [Default choice(1)]: 1
 Please provide int value for 'containerDeleteRetentionPolicyDays' (? for help): 7
 ```
+
+Please follow the link provided below.
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/install
+https://learn.microsoft.com/en-us/azure/templates/microsoft.storage/storageaccounts?pivots=deployment-language-bicep
